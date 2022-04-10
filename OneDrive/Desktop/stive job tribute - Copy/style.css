@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* text-align: center; */
+  /* border: solid;
+  border-top: 10%;
+  margin-top: 50px;
+  background-color: ; */
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.About {
+  margin-bottom: -3px;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
+.tribute {
+  text-align: center;
+  font-weight: normal;
+}
+
+header {
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+div {
+  position: relative;
+  top: -250px;
+  left: -210px;
+  font-weight: bold;
+  display: inline-block;
+  background: rgb(238, 239, 240);
+}
+
+a {
+  margin-left: 10px;
+}
+
+a:link {
+  color: rgb(22, 189, 64);
+}
+
+a:visited {
+  color: rgb(22, 189, 175);
+}
+
+a:hover {
+  color: rgb(255, 35, 35);
+  font-size: 20px;
+}
+
+a:active {
+  color: blue;
+}
+
+img {
+  border-radius: 50%;
+  /* margin-left: 37%; */
+  margin-top: 20px;
+  height: 200px;
+  width: 210px;
+  position: relative;
+  left: 650px;
+}
+
+.childhood {
+  margin-top: 10px;
+  margin-bottom: -3px;
+  font-style: "Linux Libertine", "Georgia", "Times", serif;
+  font-weight: normal;
+}
+
+p {
+  margin-top: 15px;
+}
+
+article {
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: rgb(247, 247, 247);
+}
